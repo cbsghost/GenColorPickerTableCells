@@ -2,6 +2,8 @@
 
 Generate color picker table cells for Qt5's table widget.
 
+![Screenshot](screenshot.gif)
+
 ## Running
 > Note: Python version >=3.7.0 is required.
 
