@@ -7,10 +7,16 @@ Generate color picker table cells for Qt5's table widget.
 ## Running
 > Note: Python version >=3.7.0 is required.
 
-With Python 3
+With Python 3:
 
 ```shell
 python GenColorPickerTableCells.py
+```
+
+To specify custom color picker image:
+
+```shell
+python GenColorPickerTableCells.py [custom_color_picker_image_path]
 ```
 
 ## License
